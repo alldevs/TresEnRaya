@@ -1,25 +1,6 @@
 package TresEnRaya.v010;
 
-/**
- *  Ejempo de historieta que no pinta nada aquí
- *  
- *  The <tt>Digraph</tt> class represents a directed graph of vertices
- *  named 0 through <em>V</em> - 1.
- *  It supports the following two primary operations: add an edge to the digraph,
- *  iterate over all of the vertices adjacent from a given vertex.
- *  Parallel edges and self-loops are permitted.
- *  <p>
- *  This implementation uses an adjacency-lists representation, which 
- *  is a vertex-indexed array of {@link Bag} objects.
- *  All operations take constant time (in the worst case) except
- *  iterating over the vertices adjacent from a given vertex, which takes
- *  time proportional to the number of such vertices.
- *  <p>
- *  For additional documentation,
- *  see <a href="http://algs4.cs.princeton.edu/42digraph">Section 4.2</a> of
- *  <i>Algorithms, 4th Edition</i> by Robert Sedgewick and Kevin Wayne.
- *
- */
+
 
 // Modificada por Luis en noviembre de 2015
 class TTT {
