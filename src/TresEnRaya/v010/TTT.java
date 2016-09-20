@@ -1,6 +1,6 @@
 package TresEnRaya.v010;
 
-
+//si Jefe usted manda ¿qué desea programar?
 
 // Modificada por Luis en noviembre de 2015
 class TTT {
